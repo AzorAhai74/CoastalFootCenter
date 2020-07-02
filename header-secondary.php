@@ -10,19 +10,5 @@
 </head>
 <body>
     
-<header>
 
-<div class='container'>
-    <?php
-    wp_nav_menu(
-
-
-            array(
-                
-                'theme_location' => 'top-menu',
-
-            )
-        );
-        ?>
-    </div>
-</header>
+    This is the secondary header
